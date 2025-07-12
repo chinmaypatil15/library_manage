@@ -223,10 +223,6 @@ The application uses a custom CSS design system. Main colors can be modified in 
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Support
 
 For support or questions, please create an issue in the repository or contact the development team.
